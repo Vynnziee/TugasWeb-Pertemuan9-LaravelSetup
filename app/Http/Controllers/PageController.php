@@ -7,9 +7,9 @@ class PageController extends Controller
     public function contact()
     {
         $contacts = [
-            ['label' => 'Email',     'value' => 'email@example.com'],
-            ['label' => 'GitHub',    'value' => 'github.com/username'],
-            ['label' => 'Instagram', 'value' => '@username'],
+            ['label' => 'Email',     'value' => 'vinandosyahputra@gmail.com'],
+            ['label' => 'GitHub',    'value' => 'Vynnzie'],
+            ['label' => 'Instagram', 'value' => '@v_capuccino'],
         ];
 
         return view('contact', compact('contacts'));

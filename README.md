@@ -54,6 +54,6 @@ php artisan serve
 | `.env` | Konfigurasi rahasia lokal (jangan di-commit) |
 
 ## Screenshot
-Tambahkan screenshot di sini:
-- `screenshots/welcome.png` — welcome page default (`php artisan serve`)
-- `screenshots/home.png`, `about.png`, `contact.png`, `hello.png`
+
+- `screenshots/ss.png` — welcome page default (`php artisan serve`)
+- `screenshots/home.png`, `about.png`, `contact.png`
